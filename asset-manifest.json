@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mus_hunter/static/css/main.ee3da92d.css",
+    "main.js": "/mus_hunter/static/js/main.69ca0f6c.js",
+    "static/media/binoculars.svg": "/mus_hunter/static/media/binoculars.cff0ccc919649a8d990392501a5c742f.svg",
+    "static/media/google.svg": "/mus_hunter/static/media/google.6747b096f81594b3e903680df6dea46b.svg",
+    "index.html": "/mus_hunter/index.html",
+    "main.ee3da92d.css.map": "/mus_hunter/static/css/main.ee3da92d.css.map",
+    "main.69ca0f6c.js.map": "/mus_hunter/static/js/main.69ca0f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3da92d.css",
+    "static/js/main.69ca0f6c.js"
+  ]
+}
